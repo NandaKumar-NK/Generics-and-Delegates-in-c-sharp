@@ -1,0 +1,15 @@
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\bin\Debug\net6.0\Generic_Deleigate.exe
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\bin\Debug\net6.0\Generic_Deleigate.deps.json
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\bin\Debug\net6.0\Generic_Deleigate.runtimeconfig.json
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\bin\Debug\net6.0\Generic_Deleigate.dll
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\bin\Debug\net6.0\Generic_Deleigate.pdb
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\obj\Debug\net6.0\Generic_Deleigate.csproj.AssemblyReference.cache
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\obj\Debug\net6.0\Generic_Deleigate.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\obj\Debug\net6.0\Generic_Deleigate.AssemblyInfoInputs.cache
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\obj\Debug\net6.0\Generic_Deleigate.AssemblyInfo.cs
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\obj\Debug\net6.0\Generic_Deleigate.csproj.CoreCompileInputs.cache
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\obj\Debug\net6.0\Generic_Deleigate.dll
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\obj\Debug\net6.0\refint\Generic_Deleigate.dll
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\obj\Debug\net6.0\Generic_Deleigate.pdb
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\obj\Debug\net6.0\Generic_Deleigate.genruntimeconfig.cache
+D:\c#\programs\Generic_Deleigate\Generic_Deleigate\obj\Debug\net6.0\ref\Generic_Deleigate.dll
